@@ -1,0 +1,10 @@
+html {
+  font:
+    100%/1.4 system-ui,
+    sans-serif;
+}
+
+body {
+  margin: 0;
+  background: #cfd8dc;
+}

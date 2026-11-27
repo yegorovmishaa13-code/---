@@ -1,0 +1,17 @@
+{
+  "compact": false,
+  "comments": false,
+  "highlightCode": false,
+  "retainLines": true,
+  "plugins": ["@babel/plugin-syntax-jsx", "@babel/plugin-transform-react-jsx"],
+  "presets": [
+    [
+      "@babel/preset-env",
+      {
+        "targets": "defaults",
+        "modules": false
+      }
+    ]
+  ],
+  "minified": true
+}
